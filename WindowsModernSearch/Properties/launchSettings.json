@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowsModernSearch (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WindowsModernSearch (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
