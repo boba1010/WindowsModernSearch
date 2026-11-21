@@ -16,7 +16,7 @@ A lightweight, native **WinUI 3** replacement for the redesigned Windows 11 Sear
 
 ## Tech Stack
 
-- **.NET 8 / .NET 9** + **WinUI 3 (Windows App SDK)**
+- **.NET 10** + **WinUI 3 (Windows App SDK)**
 - **Win32 Interop (`user32.dll` / `kernel32.dll`)**: Low-level keyboard hook (`WH_KEYBOARD_LL`), foreground focus management, and `AppWindow` positioning
 - **[`H.NotifyIcon.WinUI`](https://github.com/HavenDV/H.NotifyIcon)**: System tray integration
 
@@ -34,7 +34,7 @@ A lightweight, native **WinUI 3** replacement for the redesigned Windows 11 Sear
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/WindowsModernSearch.git
+   git clone https://github.com/boba1010/WindowsModernSearch.git
    cd WindowsModernSearch
    ```
 
